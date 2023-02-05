@@ -1,4 +1,4 @@
-package ch7;
+package ch7.Ex7_1;
 
 class Tv{
     boolean power; //Power On/Off

@@ -1,4 +1,4 @@
-package ch7;
+package ch7.Ex7_2;
 
 class DrawShape {
     public static void main(String[] args) {
